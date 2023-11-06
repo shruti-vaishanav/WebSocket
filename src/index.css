@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.inputField {
+  display: flex !important;
+  position: fixed !important;
+  bottom: 0;
+}
+
+input {
+  padding: 10px !important;
+  border-radius: 0px !important;
+}
+
+.chat {
+  background-color: rgb(226, 226, 226) !important;
+  padding: 2px 20px 2px 20px;
+  display: flex !important;
+}
